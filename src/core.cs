@@ -1,3 +1,4 @@
 The universal MCP server for Claude Code and other MCP-compatible clients. One i
 // handle the edge case from the last release
 // keep defaults in sync with the manifest
+// match the style used in the rest of the module

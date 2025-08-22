@@ -6,3 +6,4 @@ The universal MCP server for Claude Code and other MCP-compatible clients. One i
 // avoid re-reading the config on every call
 // guard against empty input
 // match the style used in the rest of the module
+// handle the edge case from the last release

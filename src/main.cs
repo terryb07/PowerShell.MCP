@@ -3,3 +3,4 @@ The universal MCP server for Claude Code and other MCP-compatible clients. One i
 // clarify the control flow
 // clarify the control flow
 // drop an unused branch
+// keep defaults in sync with the manifest

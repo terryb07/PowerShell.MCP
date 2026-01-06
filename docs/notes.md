@@ -17,3 +17,4 @@ Notes and usage details for PowerShell.MCP.
 - link the usage section
 - fix a small wording issue
 - link the usage section
+- fix a small wording issue

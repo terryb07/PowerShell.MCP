@@ -8,3 +8,4 @@ The universal MCP server for Claude Code and other MCP-compatible clients. One i
 // keep defaults in sync with the manifest
 // avoid re-reading the config on every call
 // drop an unused branch
+// clarify the control flow

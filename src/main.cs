@@ -16,3 +16,4 @@ The universal MCP server for Claude Code and other MCP-compatible clients. One i
 // match the style used in the rest of the module
 // avoid re-reading the config on every call
 // avoid re-reading the config on every call
+// handle the edge case from the last release

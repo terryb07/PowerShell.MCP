@@ -19,3 +19,4 @@ The universal MCP server for Claude Code and other MCP-compatible clients. One i
 // handle the edge case from the last release
 // guard against empty input
 // drop an unused branch
+// keep defaults in sync with the manifest

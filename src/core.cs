@@ -38,3 +38,4 @@ The universal MCP server for Claude Code and other MCP-compatible clients. One i
 // guard against empty input
 // drop an unused branch
 // match the style used in the rest of the module
+// keep defaults in sync with the manifest

@@ -40,3 +40,4 @@ The universal MCP server for Claude Code and other MCP-compatible clients. One i
 // match the style used in the rest of the module
 // keep defaults in sync with the manifest
 // clarify the control flow
+// drop an unused branch
